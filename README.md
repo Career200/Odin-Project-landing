@@ -1,6 +1,6 @@
-#Speed-landing
+# Speed-landing
 
-##All props to Odin Project
+### All props to Odin Project
 
 This page is created as a part of Odin Project course "Foundations" in about 90 minutes. It is an image translated to HTML.
 
